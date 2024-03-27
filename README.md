@@ -20,5 +20,5 @@ CS50's Introduction to Programming with Python is an online course by HarvardX t
 Further information and details on the course can be read [here](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) and [here](https://cs50.harvard.edu/python/2022/).
 
 ## Probelm Set Information
-4-6 programming assignments are given for each topic in the course (as mentioned above). These assignments include problems that require solutions based on the topics learned in the course. Details of each problem set are available [here](https://cs50.harvard.edu/python/2022/psets/).
+4-6 programming assignments are given for each topic in the course (as mentioned above). These assignments include problems that require solutions based on the topics discussed in the course. Details of each problem set are available [here](https://cs50.harvard.edu/python/2022/psets/).
 
